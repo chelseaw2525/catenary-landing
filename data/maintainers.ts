@@ -86,4 +86,12 @@ export const maintainers: Person[] = [
         link: 'https://github.com/BustosAndrew',
         titles: ['Frontend/Flutter', 'User Design'],
     },
+    {
+        name: 'Chelsea Wen',
+        pronouns: 'she/they',
+        school: 'University of California, Irvine',
+        src: 'https://github.com/chelseaw2525.png',
+        link: 'https://github.com/chelseaw2525',
+        titles: ['Algorithms'],
+    }
 ]
